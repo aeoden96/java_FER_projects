@@ -2,7 +2,8 @@ theme: jekyll-theme-cayman
 title: Bundle of Java projects
 description: Couple of Java projects i did while studying Java at Faculty of Electrical Engineering and Computing
 
-
+github:
+  releases_url: https://github.com/aeoden96/java_FER_projects/releases
 
 team_members:
   -
