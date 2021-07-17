@@ -6,6 +6,9 @@ description: Couple of Java projects i did while studying Java at Faculty of Ele
 releases_url: https://github.com/aeoden96/java_FER_projects/releases
 show_downloads: true
 
+github:
+  zip_url: http://example.com/download.zip
+
 team_members:
   -
     name: "Mateo Martinjak"
